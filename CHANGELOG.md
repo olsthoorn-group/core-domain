@@ -6,7 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## NEXT - YYYY-MM-DD
 
 ### Added
-- Nothing
+- Interfaces for use-case architecture
 
 ### Changed
 - Nothing
