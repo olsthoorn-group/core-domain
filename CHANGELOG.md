@@ -12,6 +12,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Interface for value objects
 - Interface for identifiers
 - Abstract uuid identifier to provide the functionality for uuid based identifiers
+- Interfaces for entities and aggregates
 
 ### Changed
 - Nothing
