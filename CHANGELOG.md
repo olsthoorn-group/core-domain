@@ -7,6 +7,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 - Interfaces for use-case architecture
+- Domain exception
 
 ### Changed
 - Nothing
