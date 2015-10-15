@@ -9,6 +9,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Interfaces for use-case architecture
 - Domain exception
 - Interface for domain events
+- Interface for value objects
+- Interface for identifiers
+- Abstract uuid identifier to provide the functionality for uuid based identifiers
 
 ### Changed
 - Nothing
