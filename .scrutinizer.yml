@@ -1,0 +1,17 @@
+# for scrutinizer-ci
+filter:
+    paths: [src/*]
+    excluded_paths: [vendor/*, tests/*]
+before_commands:
+    - "composer install --no-dev --prefer-source"
+tools:
+    external_code_coverage:
+        timeout: 1200
+    php_analyzer: true
+    php_code_coverage: true
+    php_code_sniffer: true
+    php_cpd: true
+    php_loc: true
+    php_mess_detector: true
+    php_pdepend: true
+    sensiolabs_security_checker: true
