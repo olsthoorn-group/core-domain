@@ -13,6 +13,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Interface for identifiers
 - Abstract uuid identifier to provide the functionality for uuid based identifiers
 - Interfaces for entities and aggregates
+- Immutable DateTime value object with testing aids
 
 ### Changed
 - Nothing
