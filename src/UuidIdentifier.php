@@ -38,7 +38,7 @@ abstract class UuidIdentifier implements Identifier, GeneratesIdentifier
      */
     public static function fromString($string)
     {
-        \Assert\That($string)
+        \Assert\that($string)
             ->string('Argument has to be a string')
             ->uuid('String has to be an UUID');
 
